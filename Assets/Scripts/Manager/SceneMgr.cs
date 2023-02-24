@@ -12,6 +12,7 @@ public class SceneMgr : MonoBehaviour
     static public bool _moveTitleSceneFlag = true;
     private float _elapsed;
     private float _interbal = 2.0f;
+
     
     void Start()
     {
